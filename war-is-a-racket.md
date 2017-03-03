@@ -2,6 +2,8 @@ Title      		: WAR IS A RACKET!
 Title Note 		: Written by Two-Time Congressional Medal of Honor Recipient
 Author     		: Major General Smedley D. Butler
 Title Footer  : USMC, Retired
+Css 	: style.css
+logo	: on
 
 [TITLE]
 
@@ -675,7 +677,7 @@ TO HELL WITH WAR!
 ----
 
 
-_This website version of [http://www.ratical.org/ratville/CAH/warisaracket.html](http://www.ratical.org/ratville/CAH/warisaracket.html) was created to make it easy to discuss and link to speficic parts of the documents. Please edit on [github](https://github.com/mathiasrw/war-is-a-racket/blob/master/war-is-a-racket.md) if you find any errors in the text._ 
+_This website version of [http://www.ratical.org/ratville/CAH/warisaracket.html](http://www.ratical.org/ratville/CAH/warisaracket.html) was created to make it easy to discuss and link to speficic parts of the documents. Please edit on [github](https://github.com/mathiasrw/war-is-a-racket/edit/master/war-is-a-racket.md) if you find any errors in the text._ 
 
 
 ~ HtmlOnly
