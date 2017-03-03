@@ -1,9 +1,9 @@
-Title      		: <h1>WAR IS A RACKET!</h1>
+Title      		: <h1>War Is A Racket!</h1>
 Title Note 		: Written by Two-Time Congressional Medal of Honor Recipient
 Author     		: Major General Smedley D. Butler
 Title Footer  	: USMC, Retired
 HTML Meta	: property="fb:app_id" content="567358783435755"
-QQQCss 		: style.css
+CSS 		: style.css
 logo		: true
 
 
