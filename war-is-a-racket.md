@@ -3,7 +3,7 @@ Title Note 		: Written by Two-Time Congressional Medal of Honor Recipient
 Author     		: Major General Smedley D. Butler
 Title Footer  : USMC, Retired
 Css 	: style.css
-logo	: on
+logo	: true
 
 [TITLE]
 
