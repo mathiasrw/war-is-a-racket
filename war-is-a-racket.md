@@ -1,4 +1,4 @@
-Title      		: WAR IS A RACKET!
+Title      		: <h1>WAR IS A RACKET!</h1>
 Title Note 		: Written by Two-Time Congressional Medal of Honor Recipient
 Author     		: Major General Smedley D. Butler
 Title Footer  : USMC, Retired
