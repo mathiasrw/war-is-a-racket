@@ -1,3 +1,3 @@
-# monetary-reform
+# War is a racket
 
-http://howto.monetary-reform.info
+http://war-is-a-racket.surge.sh
